@@ -155,3 +155,7 @@ Discordbot/
 ## License
 
 Use this template freely and customize it however you like.
+
+# Useful links
+- https://www.youtube.com/watch?v=CHbN_gB30Tw&list=PL-7Dfw57ZZVQ-GCNQS4Kyz637Fffhb0Hs&index=1
+- https://www.youtube.com/watch?v=YD_N6Ffoojw
